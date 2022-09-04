@@ -9,3 +9,6 @@
 * It also appears that you need to insert a line space between paragraphs to effect the rendering of a new line _reference the attached screenshot_
 
 [![git-test-readme-screenshot.jpg](https://i.postimg.cc/9QCDy6Bf/git-test-readme-screenshot.jpg)](https://postimg.cc/RNpCBbyr)
+
+<!--This is the postimage removal link:-  https://postimg.cc/delete/BkQjNSJc/44b32d08 -->
+
