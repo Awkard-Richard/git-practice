@@ -8,4 +8,4 @@
 
 * It also appears that you need to insert a line space between paragraphs to effect the rendering of a new line _reference the attached screenshot_
 
-[git-test-readme-screenshot.jpg](https://postimg.cc/RNpCBbyr)
+![git-test-readme-screenshot.jpg](https://postimg.cc/RNpCBbyr)
